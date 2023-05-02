@@ -28,5 +28,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![MySql](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=mysql)&nbsp;
+![MySql](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=mysql)&nbsp;
 
