@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm ERPNext FullStack Developer
-- 👨‍💻 As a Computer engineering student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Computer Engineering, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, python, Django, Frappe.
 
 
